@@ -6,11 +6,11 @@
 </head>
 
 <body>
-    <?php
-        //Imprime Hola mundo en el navegador
-        echo "Hola mundo <br>";
-        echo "<strong>Adios mundo</strong>";
-    ?>
+<?php
+//Imprime Hola mundo en el navegador
+echo "Hola mundo <br>";
+echo "<strong>Adios mundo</strong>";
+?>
 </body>
 
 </html>

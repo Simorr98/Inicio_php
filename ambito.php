@@ -6,18 +6,19 @@
 </head>
 
 <body>
-    <?php
-        //Ámbito
-        $numero = 22;
+<?php
+//Ámbito
+$numero = 22;
 
-        function prueba() {
-            //palabra global sirve para que se pueda usar una variable fuera de la funcion
-            global $numero;
-            echo $numero;
-        }
+function prueba()
+{
+    //palabra global sirve para que se pueda usar una variable fuera de la funcion
+    global $numero;
+    echo $numero;
+}
 
-        prueba();
-    ?>
+prueba();
+?>
 </body>
 
 </html>
