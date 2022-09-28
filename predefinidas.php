@@ -17,6 +17,7 @@ echo "<p> </p>";
 echo "Puerto del servidor: " . $_SERVER["SERVER_PORT"];
 echo "<p> </p>";
 echo "La variable número vale: " . $GLOBALS["numero"];
+
 ?>
 </body>
 
