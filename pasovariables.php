@@ -8,6 +8,9 @@
 <body>
     //Sirve para pasar variables a otro .php
     <a href="destino.php?nombre=Luis&cargo=Profesor"> Pasar las variables a destino.php</a>
+    <?php
+
+    ?>
 </body>
 
 </html>
