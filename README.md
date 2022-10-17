@@ -1,2 +1,2 @@
 # Inicio_php
-echo "Aprendiendo cursos del Open Webinars"
+Aprendiendo cursos del Open Webinars
